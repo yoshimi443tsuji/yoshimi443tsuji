@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yoshimi
+Aspiring Web Developer | Student | Passionate About Design & Technology
 
-<!--
-**yoshimi443tsuji/yoshimi443tsuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a high school student in California.  
+I'm interested in **web design, front-end development, and interactive digital experiences**.  
+My long-term goal is to study and work in UX/UI Design.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- **Languages:** Java, JavaScript, Python  
+- **Web:** HTML, CSS  
+- **Tools:** Git, VS Code, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Front-end development (React basics)
+- Improving my Java OOP & project structure
+- Building clean UI/UX layouts
+
+## 🧩 Projects
+- **Personal Portfolio Website** (in progress)  
+- **Java Payroll System** using inheritance & polymorphism  
+- Small web design practice projects
+
+## 📫 Contact
+- Email: yoshimi443tsuji@gmail.com  
+- LinkedIn: www.linkedin.com/in/yoshimi-tsuji-0a3504393
